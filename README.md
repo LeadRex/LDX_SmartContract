@@ -1,2 +1,2 @@
 # LDX_SmartContract
-SmartContract for leadrex.io developed by loftchain.io
+SmartContract for https://leadrex.io developed by https://loftchain.io
